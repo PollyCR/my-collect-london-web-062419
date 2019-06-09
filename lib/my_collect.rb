@@ -4,6 +4,6 @@ def my_collect(collection)
   result << (yield array[i])
 end 
 i+=1 
-  collection
+result
 end 
 
